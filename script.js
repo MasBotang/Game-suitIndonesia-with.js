@@ -71,9 +71,3 @@ telunjuk.addEventListener("click", function () {
   const info = document.querySelector(".result");
   info.innerHTML = getHasil(personChoice, computerChoice);
 });
-
-
-function score(){
-    if(getHasil() === 'Menang')
-        
-}
